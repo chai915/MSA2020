@@ -1,7 +1,7 @@
 # MSA2020
 MSA Data Science Pathway
 
-Properties.csv is the original file provided, and otagodata.xslx is the Excel file containing the NZ Deprivation Index provided by the University of Otago.
+Properties.csv is the original file provided, and otagodata.xlsx is the Excel file containing the NZ Deprivation Index provided by the University of Otago.
 
 ml-create-dataset.ipynb creates a dataset from the Properties.csv and adds in the NZDep2018 and Census Population as additional columns. 
 The completed dataset is output as final_dataset.csv.
